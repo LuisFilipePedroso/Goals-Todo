@@ -1,4 +1,4 @@
-#Goals-Todo
+# Goals-Todo
 App developed to learn Redux during the React Nanodegree by Udacity
 
 # Quick Start
